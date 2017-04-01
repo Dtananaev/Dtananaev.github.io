@@ -4,7 +4,6 @@ title: CS231n Machine Learning Classifiers in C++
 ---
 
 <img src="https://github.com/Dtananaev/ml_classifiers/raw/master/pictures/svn.JPG" class="teaser-img" />
-
 This project contains  c++ implementation of the K Nearest Neighbor, SVM and Softmax loss functions in addition to the simple two-layer Neural Network. They were developed for visualization and understanding while doing CS231n from Stanford University in 2016 for CIFAR-10 dataset. All classifiers include Qt GUI.
 
 **Source:** [Dtananaev/ml_classifiers](https://github.com/Dtananaev/ml_classifiers)

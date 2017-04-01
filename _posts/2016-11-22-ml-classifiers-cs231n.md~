@@ -20,7 +20,7 @@ This project contains:
 
 
 ## KNN classifier
-![KNN](https://github.com/Dtananaev/ml_classifiers/raw/master/pictures/knn.JPG)
+![knn](https://github.com/Dtananaev/ml_classifiers/raw/master/pictures/knn.JPG)
 ## SVM and Softmax classifiers
 ![svmandsoftmaxloss](https://github.com/Dtananaev/ml_classifiers/raw/master/pictures/softmax.JPG)
 ## Two layer Neural Network
