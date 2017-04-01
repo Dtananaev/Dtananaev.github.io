@@ -6,13 +6,9 @@ title: Stamina EU project
 STAMINA: Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation.
 Official website:![website](http://stamina-robot.eu)
 
-In the frame of the project there were developed the navigation system for the forklift robot in the frame of the STAMINA EU project. The navigation system was developed using spline based motion planning approach which include Dijkstra graph search algorithm and feedback based controller.   
-The project developed using C++, ROS, Qt.  
- 
+In the frame of the project there were developed the navigation system for the forklift robot. The navigation system was developed using spline based motion planning approach which include Dijkstra graph search algorithm and feedback based controller. The project developed using C++, ROS, Qt.  
+**Source Code:** closed
 
-**Source GPU implementation:** [Dtananaev/cuda_filters](https://github.com/Dtananaev/cuda_filters)
-
-**Source CPU implementation:** [Dtananaev/cv_filters](https://github.com/Dtananaev/cv_filters)
 
 
 
