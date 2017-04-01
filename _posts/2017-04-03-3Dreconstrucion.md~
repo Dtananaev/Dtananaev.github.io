@@ -6,7 +6,7 @@ title: Master thesis: Depth and Motion estimation with Reccurent Networks
 The depth and relative motion of the camera is the crutial information which is necessary for 3D reconstruction of the environment. The goal of the research project is to define the capabilities of the recurrent neural networks to estimate depth and relative transformations between monocular camera poses given RGB video sequence. 
 The described approach has a procpectives to replace traditional methods for 3D reconstruction like structure from motion method and it could be widely used in robotics as Visual SLAM approach.
 
-**Source Code:**  will be available at the end of the project approximately after 31st of July.
+**Source Code:**  will be available at the end of the project approximately after 31 of July.
 
 ##Auxiliary tools for 3D reconstruction 
 **Source:** [Dtananaev/cv_3Dreconstruction](https://github.com/Dtananaev/cv_3Dreconstruction)
