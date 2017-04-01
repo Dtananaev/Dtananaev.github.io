@@ -4,12 +4,16 @@ title: PhD
 permalink: /PhD/
 ---
 
-I am a master student at the University of Freiburg. I am interested in machine learning, robotics and computer vision.
+### Topic
 
-### Contact me
+Math modelling of the condition of the technical object based on the analysis of the acoustic signals. 
 
-[Linkedin profile](https://www.linkedin.com/in/denis-tananaev/)
+In the frame of the thesis there were implemented the adaptive filtering algorithm for noise reduction and Hidden Markov model framework for the recognition of the technical state of the object given acoustic signal. 
+As technical object for field tests was chosen automobile tire. It was found the connection between noise characteristics and the operational status of the tire while car driving. The developed approach allowed to diagnose the condition of a tire while car driving.
 
-[Youtube channel with some of my work](https://www.youtube.com/channel/UC6RAWD2yK1fHbjIhTs3oVEw)
+### Refereces
 
-[d.d.tananaev@gmail.com](mailto:d.d.tananaev@gmail.com)
+[The recent article(English)](http://ceur-ws.org/Vol-1145/paper7.pdf)
+[The full Thesis(Russian)](https://drive.google.com/open?id=0B0jDQTJWpzD3S193SHJpUUczVzA)
+
+
