@@ -7,6 +7,7 @@ The GPU project contains the implementation of the non-local mean denoising filt
 The source code for the naive version of the filter is available.
 
 **Source GPU implementation:** [Dtananaev/cuda_filters](https://github.com/Dtananaev/cuda_filters)
+
 **Source CPU implementation:** [Dtananaev/cv_filters](https://github.com/Dtananaev/cv_filters)
 
 
