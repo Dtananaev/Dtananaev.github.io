@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://github.com/Dtananaev/Dtananaev.github.io/raw/master/images/about_me.JPG" class="teaser-img" />
+<img src="https://github.com/Dtananaev/Dtananaev.github.io/raw/master/images/about_me.JPG" width="350" height="400"  />
 I am a master student at the University of Freiburg. I am interested in machine learning, robotics and computer vision.
 
 ### Contact me
