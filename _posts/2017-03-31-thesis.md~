@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master thesis&#58;    Depth and Motion estimation with Reccurent Networks
+title: Master thesis&#58; Depth and Motion estimation with Reccurent Networks
 ---
 <img src="https://github.com/Dtananaev/Dtananaev.github.io/raw/master/images/3dreconstruction/sun3Dviz.JPG" class="teaser-img"/>
 The depth and relative motion of the camera is the crutial information which is necessary for 3D reconstruction of the environment. The goal of the research project is to define the capabilities of the recurrent neural networks to estimate depth and relative transformations between monocular camera poses given RGB video sequence. 
@@ -9,5 +9,7 @@ The described approach has a procpectives to replace traditional methods for 3D 
 **Source Code:**  will be available at the end of the project approximately after 31 of July.
 
 ##Auxiliary tools for 3D reconstruction 
+
 **Source:** [Dtananaev/cv_3Dreconstruction](https://github.com/Dtananaev/cv_3Dreconstruction)
+
 **Source:** [Dtananaev/cv_opticalFlow](https://github.com/Dtananaev/cv_opticalFlow)
