@@ -15,7 +15,8 @@ Defended: 10.10.2014 Stavropol, Russia
 ### Refereces
 
 [The recent article(English)](http://ceur-ws.org/Vol-1145/paper7.pdf)
+[The thesis abstract(Russian)](https://drive.google.com/open?id=0B0jDQTJWpzD3SzZja29CV004STg)
+[The thesis(Russian)](https://drive.google.com/open?id=0B0jDQTJWpzD3UUNBcmhiREx6OU0)
 
-[The thesis(Russian)](https://drive.google.com/open?id=0B0jDQTJWpzD3S193SHJpUUczVzA)
 
 
