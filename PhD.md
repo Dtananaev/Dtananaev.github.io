@@ -6,7 +6,7 @@ permalink: /PhD/
 
 ### Topic
 
-Math modelling of the condition of the technical object based on the analysis of the acoustic signals. 
+Math modeling of the condition of the technical object based on the analysis of the acoustic signals. 
 
 In the frame of the thesis there were implemented the adaptive filtering algorithm for noise reduction and Hidden Markov model framework for the recognition of the technical state of the object given the acoustic signal. 
  Automobile tire was chosen as a technical object for the field tests. There was discovered a correlation between the noise characteristic of the tires and their operational state. The developed approach allowed to diagnose the condition of the tire while car driving.
