@@ -12,7 +12,7 @@ In the frame of the thesis there were implemented the adaptive filtering algorit
  Automobile tire was chosen as a technical object for the field tests. There was discovered a correlation between the noise characteristic of the tires and their operational state. The developed approach allowed to diagnose the condition of the tire while car driving.
 
 Defended: 10.10.2014 Stavropol, Russia
-### Refereces
+### References
 
 [The recent article(English)](http://ceur-ws.org/Vol-1145/paper7.pdf)
 [The thesis abstract(Russian)](https://drive.google.com/open?id=0B0jDQTJWpzD3SzZja29CV004STg)
